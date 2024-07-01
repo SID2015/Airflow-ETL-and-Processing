@@ -9,7 +9,7 @@ This project demonstrates an ETL (Extract, Transform, Load) pipeline using Airfl
 - `dags/`: Airflow DAGs and initialization scripts.
 - `scripts/`: Python scripts for ETL operations.
 - `sql/`: SQL queries and schema creation scripts.
-- `data/`: Sample data for testing.
+- `data/`: Sample data for testing (I have used interaction_data.csv as sample file for testing).
 
 ## Setup Instructions
 
